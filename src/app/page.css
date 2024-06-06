@@ -1,0 +1,80 @@
+#home {
+    padding: 20px;
+}
+
+.anchor {
+    padding-top: 60px;
+    margin-top: -60px;
+}
+
+#discordLogo {
+    margin-top: 10px;
+}
+
+#joinDiscord {
+    background-color: #5865F2;
+    color: white;
+
+    width: fit-content;
+
+    padding: 7.5px 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#sub {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#mc_embed_signup_headline {
+    text-align: center;
+}
+
+.indicates-required {
+    padding-block: 3px;
+    margin-bottom: -3px;
+    margin-right: 10px;
+    margin-left: auto;
+    font-size: 12px;
+}
+
+.asterisk {
+    color: red;
+}
+
+.mc-field-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    align-items: center;
+}
+
+#mce-EMAIL {
+    padding: 5px 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+
+    border: black 2px solid;
+    border-radius: 5px;
+}
+
+#mc-embedded-subscribe {
+    background-color: #000000;
+    color: white;
+
+    padding: 7.5px 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
